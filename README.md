@@ -16,8 +16,8 @@ Focused on software quality, clear documentation, and delivering reliable result
 - **Login Test Cases:** clear coverage for positive/negative scenarios
 
 ## Repositories
-- [qa-bug-report-login](link-aqui-quando-criar)  
-- [qa-login-test-cases](link-aqui-quando-criar)
+- [qa-bug-report-login](github.com/Ana202104/qa-bug-report-login)  
+- [qa-login-test-cases](https://github.com/Ana202104/qa-login-test-cases)
 
 ## Contact
 - LinkedIn: linkedin.com/in/ana-karoliny229 
